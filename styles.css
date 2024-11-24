@@ -1,0 +1,45 @@
+body {
+	background-color: #ffffff;
+	color: #000000;
+	font-family: 'Jura';
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #000000;
+		color: #ffffff;
+	}
+	
+	.logo-main {
+		filter: invert(0);
+	}
+}
+  
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+			
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+li {
+	font-size: 32px;
+	font-weight: 500;
+}
+
+.logo-main {
+    width: 100%;
+    max-width: 512px;
+    height: auto;
+}
+
+@media (prefers-color-scheme: light) {
+	.logo-main {
+		filter: invert(1);
+	}
+}
+  
