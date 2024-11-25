@@ -4,7 +4,53 @@ body {
 	font-family: 'Jura';
 }
 
+
+  
+ul {
+	font-size: 32px;
+	padding: 0px;
+	margin-top: 16px;
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+
+@media screen and (min-width: 550px) {
+	
+    .logo-main {
+		width: 100%;
+		max-width: 512px;
+		height: auto;
+		margin-top: 32px;
+		margin-left: 32px;
+	}
+	
+	ul {
+		margin-left: 80px;
+	}
+	
+}
+
+@media screen and (max-width: 549px) {
+	
+    .logo-main {
+		margin-top: 32px;
+		width: 100%;
+		height: auto;
+	}
+	
+	ul {
+		text-align: center;
+	}
+}
+
+
 @media (prefers-color-scheme: dark) {
+	
 	body {
 		background-color: #000000;
 		color: #ffffff;
@@ -13,33 +59,14 @@ body {
 	.logo-main {
 		filter: invert(0);
 	}
-}
-  
-ul {
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-}
-			
-a {
-	text-decoration: none;
-	color: inherit;
-}
-
-li {
-	font-size: 32px;
-	font-weight: 500;
-}
-
-.logo-main {
-    width: 100%;
-    max-width: 512px;
-    height: auto;
+	
 }
 
 @media (prefers-color-scheme: light) {
+	
 	.logo-main {
 		filter: invert(1);
 	}
+	
 }
   
