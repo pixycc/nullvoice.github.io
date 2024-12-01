@@ -57,7 +57,7 @@ a {
 	}
 	
 	.logo-main {
-		filter: invert(0);
+		filter: invert(1);
 	}
 	
 }
@@ -65,7 +65,7 @@ a {
 @media (prefers-color-scheme: light) {
 	
 	.logo-main {
-		filter: invert(1);
+		filter: invert(0);
 	}
 	
 }
