@@ -1,7 +1,20 @@
+@font-face {
+	font-family: 'Jura';
+	src: url('./jura.ttf') format('truetype');
+}
+
 body {
+	
 	background-color: #ffffff;
 	color: #000000;
-	font-family: 'Jura';
+	
+    background-attachment: fixed;
+    background-position: center center;
+	
+	background-image: url('./light.png');
+	
+	font-family: 'jura', sans-serif;
+	
 }
 
 
@@ -42,10 +55,6 @@ a {
 		width: 100%;
 		height: auto;
 	}
-	
-	ul {
-		text-align: center;
-	}
 }
 
 
@@ -54,6 +63,8 @@ a {
 	body {
 		background-color: #000000;
 		color: #ffffff;
+		
+		background-image: url('./dark.png');
 	}
 	
 	.logo-main {
@@ -61,12 +72,3 @@ a {
 	}
 	
 }
-
-@media (prefers-color-scheme: light) {
-	
-	.logo-main {
-		filter: invert(0);
-	}
-	
-}
-  
