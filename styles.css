@@ -1,20 +1,15 @@
 @font-face {
 	font-family: 'Jura';
-	src: url('./jura.ttf') format('truetype');
+	src: url('./jura.woff') format('woff');
 }
 
 body {
-	
 	background-color: #ffffff;
 	color: #000000;
-	
     background-attachment: fixed;
     background-position: center center;
-	
 	background-image: url('./light.png');
-	
 	font-family: 'jura', sans-serif;
-	
 }
 
 
@@ -63,12 +58,10 @@ a {
 	body {
 		background-color: #000000;
 		color: #ffffff;
-		
 		background-image: url('./dark.png');
 	}
 	
 	.logo-main {
 		filter: invert(1);
 	}
-	
 }
