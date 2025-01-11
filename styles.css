@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Jura';
-	src: url('./jura.woff') format('woff');
+	src: url('./jura.ttf') format('truetype');
 }
 
 body {
