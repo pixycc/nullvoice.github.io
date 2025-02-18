@@ -34,7 +34,7 @@ body {
 }
 
 .right {
-	float:right;
+	float: right;
 }
 
 #nav {
@@ -60,7 +60,7 @@ body {
 	margin-bottom: 0px;
 	margin-top: 0px;
 	background-color: #ffffff50;
-	border: 1.5px solid #00000050;
+	border: 1px solid #00000050;
 
 }
 
@@ -107,7 +107,21 @@ h2 {
 img {
 	
 	max-width: 100%;
-	
+
+}
+
+.cover {
+	margin-top: 10px;
+	margin-right: 10px;
+	max-width: 256px;
+	border-radius: 6px;
+	border: 1px solid #00000050;
+	display: inline-block;
+	float: left;
+}
+
+.over-cover {
+	display: inline-block;
 }
 
 #header h1 {
@@ -185,7 +199,7 @@ a {
 	#main {
 	
 	background-color: #00000050;
-	border: 1.5px solid #ffffff50;
+	border: 1px solid #ffffff50;
 
 	}
 	
@@ -206,5 +220,9 @@ a {
 
 	.lightest {
 		color: #ffffff30;
+	}
+		
+	.cover {
+		border: 1px solid #ffffff50;
 	}
 }
