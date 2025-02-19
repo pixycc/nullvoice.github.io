@@ -10,7 +10,9 @@ a {
 
 body {
 	
-	margin-top: 30vh;
+	overflow-x: hidden;
+	
+	margin-top: 40vh;
 	
 	font-family: 'Jura';
 	
@@ -31,8 +33,34 @@ body {
 
 #header {
 	
-	text-align: center;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 6rem;
+    display: flex;
+    justify-content: center;
+
+	h1 {
+		position: absolute;
+		font-weight: 100;
+	    text-align: center;
+		transform: scaleX(150%);
+		display: inline-block;
+	}
 	
+	.ghost, .ghost2 {
+		position: absolute;
+		width: 100%;
+		z-index: -1;
+		transform: translateY(-10%) scaleX(200%);
+		color: #fff6;
+		filter: blur(4px);
+	}
+	
+	.ghost2 {
+		color: #fffa;
+		filter: blur(10px);
+	}
 }
 
 #nav {
@@ -197,6 +225,7 @@ body {
 		.infos {
 			color: #00000090;
 		}
+	}
 		
 	#footer {
 		color: #00000090;
