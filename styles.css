@@ -33,6 +33,9 @@ body {
 
 #header {
 	
+
+	
+    max-width: 100%;
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -41,23 +44,25 @@ body {
     justify-content: center;
 
 	h1 {
+		transform: translateY(1.5rem);
 		position: absolute;
 		font-weight: 100;
 	    text-align: center;
-		transform: scaleX(150%);
-		display: inline-block;
+		max-width: 100%;
 	}
 	
-	.ghost, .ghost2 {
+	.glow, .glow1 {
+
 		position: absolute;
 		width: 100%;
 		z-index: -1;
-		transform: translateY(-10%) scaleX(200%);
+		
 		color: #fff6;
 		filter: blur(4px);
+		max-width: 100%;
 	}
 	
-	.ghost2 {
+	.glow1 {
 		color: #fffa;
 		filter: blur(10px);
 	}
@@ -97,6 +102,8 @@ body {
 }
 
 #main {
+	
+	overflow-x: hidden;
 	
 	margin-top: 0px;
 	margin-bottom: 0px;
