@@ -207,25 +207,6 @@ body {
 	color: #ffffff90;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (prefers-color-scheme: light) {
 	
 
@@ -315,4 +296,13 @@ body {
 
 .footnote {
 	text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+	#main {
+
+	.cover {
+		height: 10rem;
+		width: 10rem;
+	}
 }
