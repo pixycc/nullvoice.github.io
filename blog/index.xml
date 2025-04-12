@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on nullvoice</title>
-    <link>https://nullvoice.xyz/blog/</link>
+    <link>pixyc.cc/blog/</link>
     <description>Recent content in blog on nullvoice</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nullvoice.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="pixyc.cc/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>yup, new website again.</title>
-      <link>https://nullvoice.xyz/blog/yup/</link>
+      <link>pixyc.cc/blog/yup/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nullvoice.xyz/blog/yup/</guid>
+      <guid>pixyc.cc/blog/yup/</guid>
       <description>&lt;p&gt;ngl this ended up sounding way cheesier than i expected. also i&amp;rsquo;m too lazy to make it anymore cohesive. sorry lmfao&lt;/p&gt;&#xA;&lt;p&gt;years in the making, so many different websites and many iterations later. i&amp;rsquo;ve done it again. however clumsy and amateurish i may still be, this time i&amp;rsquo;m more confident than ever.&lt;/p&gt;</description>
     </item>
   </channel>
