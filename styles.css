@@ -44,7 +44,7 @@ body {
     justify-content: center;
 
 	h1 {
-		transform: translateY(7rem);
+		transform: translateY(5rem);
 		position: absolute;
 		font-weight: 100;
 	    text-align: center;
@@ -110,14 +110,6 @@ body {
 	
 	max-width: 850px;
 	
-	h3 {
-		margin: 0px;
-	}
-	
-	h4 {
-		margin: 0px;
-	}
-	
 	.cover {
 		height: 14rem;
 		width: 14rem;
@@ -136,7 +128,7 @@ body {
 	
 
 	
-	border-radius: 8px;
+	border-radius: 6px;
 	outline: solid #ffffff28 1.5px;
 	
 	p {
