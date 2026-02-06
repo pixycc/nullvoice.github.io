@@ -1,6 +1,6 @@
 a {
-  color: inherit;
-
+	color: inherit;
+	
 }
 
 @font-face {
@@ -71,11 +71,12 @@ body {
 #nav {
 	
 	font-weight: 600;
-	
 	max-width: 850px;
 	margin: auto;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	
+	text-decoration: none;
 	
 	p {
 		margin-top: 0px;
