@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pixyc.cc/feed/2026-02-25-dysfunction/</loc>
-    <lastmod>2026-02-05T00:00:00+00:00</lastmod>
+    <loc>https://pixyc.cc/tags/creations/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/feed/2026-02-09-rsrc-fuckass/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pixyc.cc/</loc>
-    <lastmod>2026-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pixyc.cc/feed/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/tags/resources/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/tags/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/feed/2026-02-08-dysfunction/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pixyc.cc/feed/2026-01-28-flstudio/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pixyc.cc/tags/creations/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pixyc.cc/feed/2026-01-25-song-brkz/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pixyc.cc/tags/</loc>
     <lastmod>2026-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pixyc.cc/feed/2026-01-02-song-soda/</loc>
@@ -56,17 +62,19 @@
     <loc>https://pixyc.cc/feed/2025-02-19-yup/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pixyc.cc/feed/2022-08-09-song-desp/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pixyc.cc/feed/2023-02-21-song-inmo/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pixyc.cc/feed/2022-01-13-song-cogi/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <loc>https://pixyc.cc/feed/2022-12-30-song-cogi/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pixyc.cc/feed/2022-08-09-song-desp/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pixyc.cc/categories/</loc>
   </url><url>
     <loc>https://pixyc.cc/coolstuff/</loc>
+  </url><url>
+    <loc>https://pixyc.cc/feed/0-misc/</loc>
   </url>
 </urlset>
